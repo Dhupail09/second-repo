@@ -1,0 +1,9 @@
+Dhupail
+aahmadhu 56789
+56677
+#include iostrem 
+using namespace std;
+int main;
+public{
+}:
+
